@@ -1,0 +1,2 @@
+#!/bin/sh
+node --expose-gc infinite-promise-loop.js

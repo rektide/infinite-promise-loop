@@ -1,0 +1,15 @@
+{
+  "name": "many-promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "many-promises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "rektide de la faye <rektide@voodoowarez.com>",
+  "license": "X11",
+  "dependencies": {
+    "p-defer": "^1.0.0"
+  }
+}
